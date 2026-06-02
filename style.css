@@ -4,7 +4,7 @@
 		ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
 		'Segoe UI Symbol', 'Noto Color Emoji', sans-serif;
 	--body-color: #38383c;
-	--link-color: #2849dd;
+	--link-color: #9415b4;
 	--font-size-sm: clamp(0.5rem, 0.45vi + 0.39rem, 0.75rem);
 
 	--fade-in-effect: fadeIn 1s;
@@ -95,7 +95,7 @@ main {
 	padding: 2.85em 0.75em 0.25em;
 }
 
-main section {
+section {
 	position: relative;
 	max-width: 555px;
 	margin: 0 auto;
@@ -105,4 +105,8 @@ main section {
 
 main section img {
 	width: 100%;
+}
+
+footer {
+  font-size: 0.78em;
 }
