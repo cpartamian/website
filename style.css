@@ -35,6 +35,10 @@ body {
 	padding: 0;
 }
 
+body {
+	line-height: 1.33;
+}
+
 h1,
 h2,
 h3,
@@ -69,4 +73,18 @@ a {
 
 a {
 	color: var(--link-color);
+}
+
+header,
+main {
+	position: relative;
+	padding: 2.85em 0.75em 0.25em;
+}
+
+main section {
+  position: relative;
+  max-width: 555px;
+  margin: 0 auto;
+  padding-bottom: 3.2em;
+  text-align: left;
 }
