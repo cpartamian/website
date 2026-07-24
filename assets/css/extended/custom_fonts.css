@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'crimson';
+  src: url('/papemod-01/fonts/CrimsonText-Regular.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'crimson-bld';
+  src: url('/papemod-01/fonts/CrimsonText-SemiBold.ttf') format('truetype');
+  font-style: normal;
+}

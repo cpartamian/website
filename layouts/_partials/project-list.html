@@ -1,0 +1,12 @@
+<div class="project__menu">
+<menu>
+  {{ $current := . }}
+  {{ range where .Site.RegularPages.ByDate.Reverse "Type" "projects" }}
+    <li class="project--item{{ if eq . $current }} active{{ end }}">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+  {{ end }}
+</menu>
+</div>
+
+
