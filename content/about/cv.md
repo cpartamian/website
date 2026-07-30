@@ -1,25 +1,9 @@
 ---
 date: '2026-07-16T11:31:30-04:00'
 draft: false
-title: 'About'
+title: 'CV'
 ShowToc: true
 ---
-
-Chantal Partamian is an experimental filmmaker and archivist with a focus on super 8mm and found footage. Her films, recognized and awarded at numerous festivals, are distributed through Vidéographe, Groupe Intervention Vidéo (GIV), and the Canadian Filmmakers Distribution Center.
-
-As an archivist, Partamian specializes in preserving and restoring film reels from the Eastern Mediterranean through the project: [Katsakh Mediterranean Archives][1], while also conducting research on archival practices in conflict zones. Her written works are primarily published in the Revue Hors-Champ.
-
-Chantal Partamian's work spans both the artistic and archival realms, merging experimental cinema with preservation efforts to safeguard the cultural heritage of the Mediterranean region.
-
-## Contact
-chantalpartamian@gmail.com
-
-![A grainy blue tinted image of a camera lens framed by a ornate white oval shaped frame.](/about.webp)
-
-## Distributor
-- [Vidéographe][2]
-- [Canadian Filmmakers Distribution Centre][3]
-- [Groupe Intervention Vidéo][4]
 
 ## University Lecturer
 - University of Toronto: University of Toronto: Department of Anthropology: Ethnographic Approaches to the Middle East and North Africa. Class by: Maya El Helou, October 2025
@@ -112,10 +96,6 @@ chantalpartamian@gmail.com
 **Corporate collaborations** include: TV5 Monde, QEPC, Fade In, Arki Quebec, Sheertex, Mattel, UN ESCWA, Amideast, Abaad, Oxfam,  Al Arabiya, Alchimies Créations Et Cultures, Festival du Monde Arabe Montreal, Orientalys and many more.
 
 
-[1]: /katsakh
-[2]: https://www.videographe.org/
-[3]: https://www.cfmdc.org/
-[4]: https://www.givideo.org/
 [5]: https://sharlenebamboat.com/Both-Instrument-Sound
 [6]: https://www.imdb.com/title/tt8893396/
 [7]: https://www.imdb.com/title/tt5271820/
