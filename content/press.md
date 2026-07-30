@@ -20,7 +20,7 @@ title: 'Press'
 - Lehoux, C. (Winter 2025)
 - Hors-Champ, revue de cinéma en langue française
 
-### RIDM: Le glitch art au service du récit
+### [RIDM: Le glitch art au service du récit][2]
 - Caron-Pelletier, A. (2024, December 2)
 - Le Culte.ca
 
@@ -60,7 +60,6 @@ title: 'Press'
 - The Online Lebanese Journal (OLJ)
 
 
-
 ### 67th International Short Film Festival Catalog
 - Oberhausen Film Festival, 2021
 
@@ -75,4 +74,4 @@ title: 'Press'
 - Media-Crisis (2007, February)
 
 	[1]: https://mirrorspectator.com/2025/08/21/chantal-partamian-reviving-film-archives/
-	
+    [2]: https://drive.google.com/file/d/1TaLSmKEybAAEL8nv1SABHYEy9T0P-fhE/view?usp=sharing
