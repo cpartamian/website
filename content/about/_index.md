@@ -9,6 +9,8 @@ Chantal Partamian is an experimental filmmaker and archivist with a focus on sup
 
 As an archivist, Partamian specializes in preserving and restoring film reels from the Eastern Mediterranean through the project: [Katsakh Mediterranean Archives][1], while also conducting research on archival practices in conflict zones. Her written works are primarily published in the Revue Hors-Champ.
 
+Partamian is also a university lecturer and invited speaker whose research bridges experimental cinema, archival theory, and visual culture. She has taught and delivered seminars, workshops, and guest lectures at institutions including the University of Toronto, Concordia University, Université de Montréal, Université du Québec en Outaouais, IESAV–Saint Joseph University, Mount Allison University, Université de Balamand, the Lebanese American University, the American University of Beirut, and Université Lyon 2. She is regularly invited to speak at international conferences, museums, cinematheques, and film organizations on subjects including found footage, feminist and decolonial archival practices, Mediterranean visual heritage, and the ethics of preserving audiovisual histories in contexts of conflict and displacement.
+
 Chantal Partamian's work spans both the artistic and archival realms, merging experimental cinema with preservation efforts to safeguard the cultural heritage of the Mediterranean region.
 
 - For more information view my [CV][5]
