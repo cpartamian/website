@@ -1,14 +1,20 @@
 ---
 date: '2026-07-17T13:27:27-04:00'
 draft: false
-title: 'Haralez: Noisy Beginnings of the Cradle'
+title: 'Հարալեզ - Haralez: Noisy Beginnings of the Cradle'
 ---
 
-1. _In production_
+<!-- list : project details  -->
+1. 18min 16sec, Canada & Lebanon, 2026
+2. Found footage, Digital , Stereo
+3. Armenian (Western) audio, English & French subtitles
 
 ![Image of a mountainous island surrounded by water.](/haralez.webp)
 
 ## Description
+
+_Beneath Istanbul's Gezi Park lies the erased Surp Hagop Armenian Cemetery. Guided by the Haralez, mythical spirit-dogs believed to revive the dead, the film travels across layers of time, where erased histories continue to echo through the city._
+
 Ghosts linger in the margins of history, inhabiting spaces that appear empty but are heavy with erased narratives. Mythological creatures emerge as echoes of cultural memory, carrying the remnants of ancestral lineages lost to time. Cemeteries are repurposed into parks, parks become spaces of resistance, and the dust of the past lingers in fountains sculpted from the marble of forgotten gravestones.
 
 Through fragments of archives the film interrogates how the city has been framed and who has been left out. Faces captured in archival images make me wonder if any were Armenian? Would they soon vanish, or receive word of loved ones already lost? As dust settles over time and space, what has it borne witness to? What remains of those who have disappeared? What kind of archive can factually ground a genocide?
