@@ -13,8 +13,6 @@ Each film in “Katsakh” represents a fight for memory, preserving moments tha
 For inquiries or further information, please contact us via email at katsakh.project@gmail.com
 
 {{< youtube fueoGaaBg7w >}}
-{{< youtube Mo2Rk5MTJGo >}}
-{{< youtube kYU5d8q7Pbc >}}
 
 ## [Katsakh in the press][1]
 
