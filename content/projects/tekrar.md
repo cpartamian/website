@@ -12,8 +12,7 @@ title: 'Tekrar تكرار'
 
 ## Description
 
-A collage of archival footage, super 8mm and pal formats exploring the redundant
-repetitive trap of war.
+Constructed from a collage of archival footage, Super 8mm, and PAL video, Tekrar reflects on the cyclical nature of war and its endless repetitions. Layering fragmented images and deteriorating media, the film evokes the ways violence returns across generations, blurring memory, history, and lived experience. Through repetition and accumulation, Tekrar reveals war not as a singular event, but as a recurring condition that continues to haunt both landscapes and those who inhabit them.
 
 ## Screenings
 
