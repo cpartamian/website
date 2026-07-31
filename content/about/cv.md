@@ -6,6 +6,7 @@ ShowToc: true
 ---
 
 ## University Lecturer
+- Université de Balamand: Académie Libanaise des Beaux-Arts: The Multiple Lives of Images: A Symposium on Archival Practices. Two-day workshop on archival practices organized as part of Cinematheque Beirut's preservation of Georges Nasser's archives, February 2026.
 - University of Toronto: University of Toronto: Department of Anthropology: Ethnographic Approaches to the Middle East and North Africa. Class by: Maya El Helou, October 2025
 - Université de Balamand: Académie Libanaise des Beaux-Arts: TEA0243-1: Arts étranges/ Esthétiques de la déviation et autres Défiances. Class by : Nasri Sayegh, May 2025
 - IESAV - Saint Joseph University, Found Footage Futures, 5-day seminar-workshop on reuse practices, March-April 2025
@@ -20,6 +21,7 @@ ShowToc: true
 - Université Lyon 2 Lumière, Association Amorce, “Super 8mm Workshops and lectures”, 2003-2006
 
 ## Speaker / Round Tables
+- VIVO Media Arts Centre – Vancouver: Editing in the Archive. Workshop as part of the MENA Film Festival, 2026.
 - Knowledge Workshop - Beirut: Archive for Ecology: Can archives be regenerative technologies of movements. Mar. 2025
 - Main Film, Montreal – Archival Creation: Discussions and Practices – with Chantal Partamian, Moïa Jobin-Paré, Razan AlSalah, Mathilde Capone, Miryam Charles, Yen-Chao Lin, Muhammad ElKhairy, and Nicolas Renaud, February 3, 2025
 - Semaine de la Critique de Montréal – Program: "Album de Famille," Discussion moderated by Dennis Vetter (Film Critic, Co-Founder, and Programmer of the Berlinale Critics' Week), 2024
