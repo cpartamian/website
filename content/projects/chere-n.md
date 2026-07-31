@@ -11,8 +11,7 @@ title: 'Chère N.'
 {{< vimeo 529497745 >}}
 
 ## Description
-A letter-documentary shot in Lebanon in the summer of 2006, during the Israeli attack on Lebanon.
-A point of view that moves from Dahieh in Beirut toward a nearby bridge under reconstruction.
+Shot in Lebanon during the summer of 2006, amid the Israeli attack on the country, this letter-documentary follows a journey from Beirut's Dahieh district toward a nearby bridge under reconstruction. Through an intimate, first-person perspective, the film reflects on the fragility of everyday life, tracing a landscape suspended between destruction and rebuilding, where personal memory and collective history intersect.
 
 <!-- ## Historical Context -->
 
