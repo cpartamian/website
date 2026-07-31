@@ -17,6 +17,7 @@ Fragments of expired Super 8mm and 16mm film cartridges, found and shot in Quebe
 ## Screenings
 
 **2026**
+- GIV Présente: Traces, gestes et retraits - Commissarié par Daniela Paglione et  Verónica Sedano Alvarez
 - 29e Rencontres Internationales Traverse | Toulouse, France
 
 **2025**
