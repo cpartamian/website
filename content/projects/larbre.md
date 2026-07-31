@@ -13,8 +13,7 @@ title: 'L’Arbre'
 
 
 ## Description
-The project explores the cinematic gaze towards queer bodies as well as their constant absence from the recurrent narrative or collective memory. It started with the discovery of 80s pornographic found footage and so we asked ourselves the question, what if this was found in a dilapidated house? What if instead of the process of the image disintegrating, we bring it to life as if the disintegrated lives of queer women that were meant to stay unseen or disfigured or left to rot slowly come to life and assert their presence within the context of the 80s in Lebanon, a period so overtly represented by war and violence and from which all narrative about personal lives and intimacy is removed.
-
+Fragments of expired Super 8mm and 16mm film cartridges, found and shot in Quebec, reflect on words written in Beirut, creating a melancholic postcard between two worlds. Through the encounter of deteriorating images and distant memories, the film traces a poetic dialogue between places, time, and displacement, where personal archives become a bridge between past and present.
 ## Screenings
 
 **2026**
