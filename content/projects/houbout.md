@@ -11,7 +11,7 @@ title: 'Houbout هبوط'
 {{< vimeo 513409404 >}}
 
 ## Description
-To linger between states, between nation-states. A poetical essay that very briefly explores fragments of a long distance relationship, when two lovers meet, when they are caught in transit.
+A poetic essay on love, distance, and borders, the film dwells in the spaces between encounters, between departures and arrivals, between nation-states. Through fleeting fragments of a long-distance relationship, it captures two lovers suspended in transit, where intimacy unfolds in moments of waiting, movement, and impermanence.
 
 <!-- ## Historical Context -->
 
