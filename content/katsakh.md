@@ -1,7 +1,8 @@
 ---
 date: '2026-07-14T19:17:44-04:00'
 draft: false
-title: 'KATSAKH Archives'
+title: 'KATSAKH Mediterranean Archives'
+ShowToc: true
 ---
 
 Katsakh | քացախ is the Armenian word for vinegar.
@@ -14,71 +15,92 @@ For inquiries or further information, please contact us via email at katsakh.pro
 
 {{< youtube fueoGaaBg7w >}}
 
-## [Katsakh in the press][1]
+## Katsakh in the press
 
-### Le Blog du Festival du film franco-arabe: Rencontre avec Chantal Partamian : autour de son projet KATSAKH
-- 2 décembre 2023
+Katsakh in the press
+À Tripoli, la Palestine des années 1920 renaît en musique
+Rayanne Tawil (2025)
+L'Orient-Le Jour
 
-### ترميم الذاكرة المصوّرة...شانْتال برتميان: أتلفْ أرشيفاً تَمحُ شعباً, زكي محفوض 
-- Al-modon, 2023/06/21
+Mouvance
+Chantal Partamian (2026)
+Hors Champ — Films de famille : voyager, Singularités des vies infimes
 
-### Analog futures | Katsakh
-- Analog Cookbook, Issue #5
-- University of North Carolina Press, 2022
+Rencontre avec Chantal Partamian : autour de son projet KATSAKH
+Mathilde Rouxel  (2023)
+Le Blog du Festival du film franco-arabe
 
-### Lingering Traces: Collecting Absence in Family Films and Travelogues
-- International Association of Armenian Librarians and Archivists — In Focus #13 (2025): Invited presentation and talk, 
-- Oct. 18th 2025
+ترميم الذاكرة المصوّرة… شانْتال برتميان: أتلفْ أرشيفاً تَمحُ شعباً
+Zaki Mahfoud (2023)
+Al-Modon
 
-### Film Restored
-- A curated program by Germany’s national film archive presenting newly restored films, highlighting archival preservation, historical context, and contemporary access to film heritage
-- The Deutsche Kinemathek, Oct. 2025
+Analog Futures | Katsakh
+Analog Cookbook, Issue 5,  (2022)
+University of North Carolina Press
 
-### Rumman Music Festival Cineconcert
-- With Ghassan Sahhab and Fadi Tabbal
-- Sept. 2025
+## Talks
+Lingering Traces: Collecting Absence in Family Films and Travelogues
+Invited Lecture (2025)
+International Association of Armenian Librarians and Archivists — In Focus #13
 
-### Les archives visuelles de la Méditerranée 
-- CRIalt - Centre de recherches intermédiales sur les arts, les lettres et les techniques 
-- Présentation du projet KATSAKH, 2025
+Film Restored
+Invited Presentation (2025)
+Deutsche Kinemathek, Berlin
 
-### Katsakh: Mediterranean Archives, Le Polygone Étoilé
-- Aflam Festival, Vives Archives
-- Marseille, Avr. 2025.
+Du politique dans l'usage des archives filmiques. Lectures et pratiques décoloniales : Les archives visuelles de la Méditerranée. Présentation du projet KATSAKH
+Lecture & Presentation (2025)
+CRIalt — Centre de recherches intermédiales sur les arts, les lettres et les techniques
 
-### Home Movie Day
-- La 10e édition du Home Movie Day Paris aura lieu le samedi 12 octobre à la Générale
-- Paris: Ciné Concert
+Katsakh: Mediterranean Archives
+Presentation (2025)
+Aflam Festival — Vives Archives
+Le Polygone Étoilé, Marseille
 
-### Journal d'une occupation
-- Symposium XP, symposium sur le cinéma expérimental, Montréal
-- Films et images tournées en Palestine (1920-2024)
-- Performance musicale live de Sam Shalabi accompagnée d'images d'archives de la collection 'Katsakh' tournées en Palestine, Liban Sud, Jordanie (1920-2011).
+Katsakh: In Search of Mediterranean Archives
+Lecture & Presentation (2024)
+Radical Film Network
+Madrid, Spain
 
-### Katsakh: In search of mediterranean archives
-- Radical film Network - Madrid Espagne
-- Madrid Espagn, Juin 2024
+Mediterranean Explorations: Evolving Archives and Varied Perspectives
+Panel Discussion (2024)
+Leonard & Bina Ellen Art Gallery
 
-### Projection de films de famille 8 et 16 mm numérisés et assemblés par Chantal Partamian
-- Festival du film franco-arabe de Noisy-le-Sec, nov. 2023 
-- Projection de films de famille 8 et 16 mm numérisés et assemblés par Chantal Partamian, accompagnés musicalement au oud par le soliste Damien Sarret
+Katsakh: Reconstruction d'une mémoire imagée
+Presentation (2023)
+Lebanese Film Festival Canada
 
-###  Mediterranean Explorations: Evolving archives and varied perspectives
-- Galerie Leonard & Bina Ellen Art Gallery
+Réactualiser les archives pour une histoire au présent
+Lecture (2022)
+Festival Aflam, Marseille
 
-### Katsakh: Reconstruction d'une mémoire imagée
-- Lebanese film festival Canada, Juin 2023
+## Events, Performances & Screenings
 
-### Réactualiser les archives pour une histoire au présent
-- Festival Aflam, Marseille, 2022
+Rumman Music Festival Cine-Concert
+Live Cine-Concert (2025)
+with Ghassan Sahhab & Fadi Tabbal
 
-### Show Us the Money and We Will Resist
-- European Media Art Festival № 34 
-- Osnabrueck, Germany 
+Home Movie Day Paris
+Live Cine-Concert (2024)
+La Générale, Paris
 
-### Prophecies from the Sea
-- The curators are showing a programme "about the prophetic nature of cinematic works created in moments of transition". This includes both recent films that deal directly with the catastrophic explosion in Beirut a year ago, its causes and consequences, and older works that focus on earlier historical upheavals in Lebanon and its conflict-ridden history. Films by Chantal Partamian, Ali Cherri, the Atlas Group and Ghassan Salhab, among others, will be screened.
-- International Short Film Festival Oberhausen, 2021
+Katsakh : archives méditerranéennes
+Live Cine-Concert (2023)
+with Damien Sarret and students of the Conservatoire Nadia et Lili Boulanger
+Festival du film franco-arabe de Noisy-le-Sec
+Cinéma Le Trianon, Romainville
 
+Journal d'une occupation
+Live Audiovisual Performance (2024)
+Symposium XP, Montréal
+Performance with Sam Shalabi using archival films from the Katsakh collection
+
+Show Us the Money and We Will Resist
+Exhibition Screening (2021)
+European Media Art Festival No. 34
+Osnabrück, Germany
+
+Prophecies from the Sea
+Festival Screening (2021)
+International Short Film Festival Oberhausen
 
 [1]: https://site-kf7bck3b.wsecdn1.websitecdn.com/uploads/7aaae6eb7a2f43f5b732240d419b14ff.pdf?v=240301064218
