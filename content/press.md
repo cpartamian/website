@@ -4,15 +4,15 @@ draft: false
 title: 'Press'
 ---
 
-### Lettre de Liban face à face : vertiges de la persistance
+### [Lettre de Liban face à face : vertiges de la persistance][14]
 - Simon Baudry, C. (2026)
 - Dérives.TV
 
-### Festival Liban face à face, 2026 : De quelques lieux, de quelques corps et de quelques fantômes
+### [Festival Liban face à face, 2026 : De quelques lieux, de quelques corps et de quelques fantômes][15]
 - Lehoux, C. (2025, Decembre 17)
 - Revue Débordements
 
-### 最遙遠的異鄉是沒有自己的地方──記《烤火房的一些夢》，《痕》與《她鄉迴旋曲
+### [最遙遠的異鄉是沒有自己的地方──記《烤火房的一些夢》，《痕》與《她鄉迴旋曲][16]
 - 顏采葳  (2026, May 01)
 - Filmaholic Taiwan
 
@@ -44,11 +44,11 @@ title: 'Press'
 - Sitjá, J. (2024, April 10)
 - Retransmisión.mx.
 
-### Rencontre avec Chantal Partamian: Autour de son projet KATSAKH
+### [Rencontre avec Chantal Partamian: Autour de son projet KATSAKH][8]
 - Rouxel, M. (2024, April 11)
 - Cinématrianon
 
-### Analog futures: Katsakh.
+### [Analog futures: Katsakh][17]
 - Analog Cookbook , Issue #5. (2022)
 - University of North Carolina Press
 
@@ -69,7 +69,7 @@ title: 'Press'
 
 ### Les Écrans du Liban se rallument
 - Khalaf, C. (2021, June 24)
-- The Online Lebanese Journal (OLJ)
+- LOrient le Jour
 
 
 ### 67th International Short Film Festival Catalog
@@ -92,9 +92,14 @@ title: 'Press'
     [5]: https://drive.google.com/file/d/1LePbYNOahzb-JN7uhw5UB8AKx82Mk-_h/view?usp=drive_link
     [6]: https://counterarchive.ca/talking-archives-2-episode-1-chantal-partamian
     [7]: https://drive.google.com/file/d/1-mRv5c1PJlOH8gCKg9ALzGEyv6odM9cQ/view?usp=drive_link
+    [8]: https://drive.google.com/file/d/12SAkyC6NloZEN-9lazcUd9QvXe7AdHwT/view?usp=drive_link
     [9]: https://drive.google.com/file/d/1HJ6VYGRqSviOgdyOLWeU4Dbkotv6mFV2/view?usp=drive_link
     [10]: https://vimeo.com/762498252
     [11]: https://drive.google.com/file/d/1LqDtWPVyYa-pALadA3tsy9vTUEUMvK-1/view?usp=drive_link
     [12]: https://drive.google.com/file/d/1HB4ZRvQ7yeZ1HeRO3MjDYGSfEIfPsCxq/view?usp=drive_link
     [13]: https://drive.google.com/file/d/1bqwwihcMZSQMNwZIhEugKVU-8HoidXoQ/view?usp=drive_link
+    [14]: https://drive.google.com/file/d/19duGFn83oonBkrg1HNOb7jeqRvbuUZyQ/view?usp=drive_link
+    [15]: https://drive.google.com/file/d/1267OGPJPnU8MEfVCW_ZJIV8wF46AnmNS/view?usp=drive_link
+    [16]: https://drive.google.com/file/d/1ASVnc_WXw1ZhduJqRGofrvPBeuTKMUkd/view?usp=drive_link
+    [17]: https://drive.google.com/file/d/1hkXLBMgNIXIvDZDrMaN9RqitXdg1Hbca/view?usp=drive_link
     
