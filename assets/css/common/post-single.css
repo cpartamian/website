@@ -54,6 +54,10 @@
     color: var(--accent-color);
 }
 
+.toc .inner ul ul {
+	display: none;
+}
+
 .post-meta a {
 	color: var(--secondary);
 	text-decoration-style: dotted;
