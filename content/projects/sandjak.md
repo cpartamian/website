@@ -43,7 +43,9 @@ Throughout the latter half of the 20th century, the camp gradually expanded and 
 - Lebanese Film Festival in Canada | Montreal, Canada
 - Écrans du Réel Documentary Film Festival | Beirut, Lebanon
 
-<!-- ## Awards -->
+## Awards
+- Special Mention | ONE SHOT Film Festival | 2021 
+- Winner Audience Choice | burnt Video Art and Experimental Film Festival (Edition 3)
 
 ## Distributor
 - [Groupe Intervention Video][1] 

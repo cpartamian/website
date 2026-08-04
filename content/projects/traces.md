@@ -34,7 +34,7 @@ The project explores the cinematic gaze towards queer bodies as well as their co
 - Dazibao: Recollections | Montreal, Canada
 - Ribalta Experimental Film Festival (Honorable Mention) | Vignola, Italy
 - Traverse Video Festival | Toulouse, France 
-- Ultradogme Movie Club | 
+- Ultradogme Movie Club
 
 **2024**
 - Reel Pride International Film Festival | Winnipeg, Canada
@@ -59,13 +59,18 @@ The project explores the cinematic gaze towards queer bodies as well as their co
 - Queer City Cinema | Regina, Canada
 - Toronto Arab Film Festival | Toronto, Canada
 
-<!-- ## Awards -->
+## Awards & Grants
+- Honorable Mention | RIBALTA experimental film festival | 2025
+- Grand Prix | Kinoskop 5 | 2023
+- Cinema  al Fouad and Beirut DC Production Grant | 2022
+- Explore and Create: From Concept to Realization Canada Council for the Arts fund | 2022
+- Vivacité fund of the Conseil des arts et des lettres du Québec for development | 2022
 
 ## Online Distributor
-- Acquired for distribution by [DA Films][1] (Oct 2025 > Oct 2027)
-- Licensed for distribution on [LaboCine][2] (January 2026)
-- Acquired for distribution by [TENK Canada][3] (Aug > Nov 2025)
-- Licensed for distribution on [GuideDoc][4] (2025)
+- Acquired for distribution by [DA Films][1] | Oct 2025 > Oct 2027
+- Licensed for distribution on [LaboCine][2] | January 2026
+- Acquired for distribution by [TENK Canada][3] | Aug > Nov 2025
+- Licensed for distribution on [GuideDoc][4] | 2025
 
 [1]: https://dafilms.com/film/18358-traces
 [2]: https://www.labocine.com/

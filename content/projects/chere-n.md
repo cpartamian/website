@@ -50,7 +50,11 @@ Shot in Lebanon during the summer of 2006, amid the Israeli attack on the countr
 - Shortmoves | Haale, Germany
 
 
-<!-- ## Awards -->
+## Awards
+
+- Development Prize | Strawberry Super 8mm Film Festival | 2007
+- Jurypreis | 8. Dresdner Schmalfilmtage | 2007
+- Audience Award | 8. Dresdner Schmalfilmtage | 2007
 
 <!-- ## Distributor -->
 
