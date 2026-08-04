@@ -60,6 +60,7 @@ The project explores the cinematic gaze towards queer bodies as well as their co
 - Toronto Arab Film Festival | Toronto, Canada
 
 ## Awards & Grants
+- Radical Forms Award | Images Festival | 2026
 - Honorable Mention | RIBALTA experimental film festival | 2025
 - Grand Prix | Kinoskop 5 | 2023
 - Cinema  al Fouad and Beirut DC Production Grant | 2022
