@@ -17,9 +17,8 @@ For inquiries or further information, please contact us via email at katsakh.pro
 
 ## Katsakh in the press
 
-### [Katsakh in the press][1]
-- À Tripoli, la Palestine des années 1920 renaît en musique
-Rayanne Tawil (2025)
+### À Tripoli, la Palestine des années 1920 renaît en musique
+- Rayanne Tawil (2025)
 - L'Orient-Le Jour
 
 ### Mouvance
@@ -101,4 +100,3 @@ Rayanne Tawil (2025)
 - Festival Screening (2021)
 - International Short Film Festival Oberhausen
 
-[1]: https://site-kf7bck3b.wsecdn1.websitecdn.com/uploads/7aaae6eb7a2f43f5b732240d419b14ff.pdf?v=240301064218
