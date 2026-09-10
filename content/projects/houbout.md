@@ -62,3 +62,10 @@ _"Dans un essai poétique poignant, Chantal Partamian navigue à travers des fro
 _"(...) there is a constant fluctuation between our identities and where we belong. leaving us  in an uncanny mode of existence. being attached to someone emotionally in another place, keeps us moving between borders. the oscillation between several places makes landing a source of emotional grounding and a safe haven (...)" **Oscillations | Plumb Gallery, 2021.**_
 
 _Set to the black and white footage of a journey, Chantal Partamian's "Landing "is a short poem about lovers in transit. With longing and patience in equal measure, the film shows fragments of a long-distance relationship, and what it’s like to be queer and exist between states. **Alchemy 11 | Shorts: Stout footwear advised, 2021.**_
+
+
+[1]: https://www.videographe.org/
+[2]: mailto:distribution@videographe.org
+[3]: https://vitheque.com/en
+
+
