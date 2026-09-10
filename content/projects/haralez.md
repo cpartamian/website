@@ -26,7 +26,12 @@ _Only the living, cognizant of its history, will understand the principles of th
 
 <!-- ## Awards -->
 
-<!-- ## Distributor -->
+## Distributor
+- [Vidéographe][1] | [distribution@videographe.org][2] | [Vithèque][3] (La Collection de Vidéographe)
+
+[1]: https://www.videographe.org/
+[2]: mailto:distribution@videographe.org
+[3]: https://vitheque.com/en
 
 <!-- ## Credits -->
 
