@@ -67,6 +67,10 @@ The project explores the cinematic gaze towards queer bodies as well as their co
 - Explore and Create: From Concept to Realization Canada Council for the Arts fund | 2022
 - Vivacité fund of the Conseil des arts et des lettres du Québec for development | 2022
 
+## Distributor
+
+- [Vidéographe][5] | [distribution@videographe.org][6]
+
 ## Online Distributor
 - Acquired for distribution by [DA Films][1] | Oct 2025 > Oct 2027
 - Licensed for distribution on [LaboCine][2] | January 2026
@@ -77,6 +81,8 @@ The project explores the cinematic gaze towards queer bodies as well as their co
 [2]: https://www.labocine.com/
 [3]: https://www.tenk.ca/fr/documentaires/archives/traces
 [4]: https://guidedoc.tv/documentary/traces_-documentary-film/#%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20
+[5]: https://www.videographe.org/
+[6]: mailto:distribution@videographe.org
 
 <!-- ## Credits -->
 
