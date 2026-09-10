@@ -50,8 +50,10 @@ A poetic essay on love, distance, and borders, the film dwells in the spaces bet
 
 <!-- ## Awards -->
 
-<!-- ## Distributor -->
+## Distributor
 
+- [Vidéographe][1] | [distribution@videographe.org][2] | [Vithèque][3] (La Collection de Vidéographe)
+  
 <!-- ## Credits -->
 
 ## Press
