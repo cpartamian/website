@@ -25,17 +25,23 @@ For inquiries or further information, please contact us via email at katsakh.pro
 - Chantal Partamian (2026)
 - Hors Champ — Films de famille : voyager, Singularités des vies infimes
 
+  ### [Talking Archives: Season 2, Episode 1 – Chantal Partamian][9]
+- Gagnon, M. K., & Lex, E. (Producers). (2024)
+- Counter Archive
+
+
 ### Rencontre avec Chantal Partamian : autour de son projet KATSAKH
 - Mathilde Rouxel  (2023)
 - Le Blog du Festival du film franco-arabe
 
-### ترميم الذاكرة المصوّرة… شانْتال برتميان: أتلفْ أرشيفاً تَمحُ شعباً 
-- Zaki Mahfoud (2023)
-- Al-Modon
+### [ترميم الذاكرة المصوّرة... شانْتا-ل برتميان: أتلفْ أرشيفاً تَمحُ شعباً.][8] 
+- Mahfoud, Z. (2023, June 21)
+- Al Modon
 
-### Analog Futures | Katsakh
-- Analog Cookbook, Issue 5,  (2022)
+### [Analog futures: Katsakh][1]
+- Analog Cookbook , Issue #5. (2022)
 - University of North Carolina Press
+
 
 ## Talks
 ### Lingering Traces: Collecting Absence in Family Films and Travelogues
@@ -50,9 +56,9 @@ For inquiries or further information, please contact us via email at katsakh.pro
 - Lecture & Presentation (2025)
 - CRIalt — Centre de recherches intermédiales sur les arts, les lettres et les techniques
 
-### Katsakh: Mediterranean Archives
+### Vives Archives - Katsakh: Mediterranean Archives
 - Presentation (2025)
-- Aflam Festival — Vives Archives
+- Aflam Festival — 
 - Le Polygone Étoilé, Marseille
 
 ### Katsakh: In Search of Mediterranean Archives
@@ -100,3 +106,12 @@ For inquiries or further information, please contact us via email at katsakh.pro
 - Festival Screening (2021)
 - International Short Film Festival Oberhausen
 
+[1]: https://drive.google.com/file/d/1-mRv5c1PJlOH8gCKg9ALzGEyv6odM9cQ/view?usp=drive_link
+[2]: https://acris.aalto.fi/ws/portalfiles/portal/168317022/RFN-Madrid-2024-Archives-of-Radical-Cinema-Full-Programme-EN.pdf?
+[3]: https://www.lorientlejour.com/article/1476215/a-tripoli-la-palestine-des-annees-1920-renait-en-musique.html?utm_source=chatgpt.com
+[4]: https://www.deutsche-kinemathek.de/en/visit/program/katsakh-mediterranean-archives
+[5]: https://www.aflam.fr/vives-archives-katsakh-mediterranean-archives/
+[6]: https://horschamp.qc.ca/article/films-de-famille-voyager
+[7]: https://cinematrianon.fr/film/item/5955-rencontre-avec-chantal-partamian-autour-de-son-projet-katsakh
+[8]: https://drive.google.com/file/d/1-mRv5c1PJlOH8gCKg9ALzGEyv6odM9cQ/view?usp=drive_link
+[9]: https://counterarchive.ca/talking-archives-2-episode-1-chantal-partamian
