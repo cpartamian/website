@@ -24,18 +24,17 @@ An Anthology Movie by Jaap Pieters (Amsterdam), Chantal Partamian (Beirut), Mirc
 ## Screenings
 
 **2017**
-- Isolab Darkroom | L’Associazione Spiazzi 
-- Synapses 0: SUPER8 Screening and Cine Concert | Dawawine, Beirut
+- Isolab Darkroom | L’Associazione Spiazzi  | Verona, Italy
+- Synapses 0: SUPER8 Screening and Cine Concert | Dawawine  | Beirut, Lebanon
 
 **2016**
-- Film Festivals: History, Theory, Method, Practice
-- Filmmakers Fest
+- Filmmakers Fest  | Milan, Italy
 - Kino Otok | Izola, Slovenia
-- 4 Kolutov + Kvartet ZOC
-- Filmforum 2016
+- 4 Kolutov + Kvartet ZOC   |  Slovenia
+- Filmforum 2016  | Bologna, Italy
 
 **2015**
-- Bologna Home Movies, Archivio Nazionale del Film di Famiglia, Six Gates Films
+- Bologna Home Movies, Archivio Nazionale del Film di Famiglia, Six Gates Films | Bologna, Italy
 
 <!-- ## Awards -->
 
