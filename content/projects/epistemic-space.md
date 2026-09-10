@@ -21,10 +21,10 @@ _Epistemic Space (2015)_ a documentary short film developed during the Armenia-
 
 **2017**
 - Phenicien International Film Festival | Lyon, France
-- APRICOT TREE International Ethnographic Film Festival | Yerevan, Armenia
+- Apricot Tree International Ethnographic Film Festival | Yerevan, Armenia
 
 **2016**
-- 13th Golden Apricot IFF | Yerevan, Armenia
+- 113th Golden Apricot International Film Festival | Yerevan, Armenia
 
 
 <!-- ## Awards -->
