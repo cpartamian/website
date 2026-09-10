@@ -20,9 +20,6 @@ Fragments of expired Super 8mm and 16mm film cartridges, found and shot in Quebe
 - GIV Présente: Traces, gestes et retraits - Commissarié par Daniela Paglione et  Verónica Sedano Alvarez
 - 29e Rencontres Internationales Traverse | Toulouse, France
 
-**2025**
-- Fluxus Experimental Film Festival | Hamilton, Canada
-
 **2024**
 - Fluxus Experimental Film Festival | Hamilton, Canada
 - Crossroads (Program 8: Move Forward and Breathe) | San Francisco, USA
