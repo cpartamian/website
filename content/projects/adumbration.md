@@ -4,7 +4,10 @@ draft: false
 title: 'Adumbration'
 ---
 
-1. _In production_
+<!-- list : project details  -->
+1. 13min, Canada & Lebanon, 2026
+2. Super 8mm
+3. Arabic audio, English & French subtitles
 
 ![Black and white image with a silhouette of a person standing against a larger illustration of and older man's face.](/adumbration.webp)
 
@@ -17,7 +20,13 @@ Set in Beirut, the film follows a moviola (an analog film editing machine used t
 
 <!-- ## Awards -->
 
-<!-- ## Distributor -->
+## Distributor
+- [Vidéographe][1] | [distribution@videographe.org][2] | [Vithèque][3] (La Collection de Vidéographe)
+
+[1]: https://www.videographe.org/
+[2]: mailto:distribution@videographe.org
+[3]: https://vitheque.com/en
+
 
 <!-- ## Credits -->
 
