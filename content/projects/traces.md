@@ -92,5 +92,7 @@ _Dans un premier temps, la pellicule vinaigrée présente le corps de deux femme
 
 _If you are looking for a haunting, experimental, and politically charged Sapphic (WLW) short film, Traces (Arabic title: آثار) is a critical work that emerged on the international circuit in 2024. **saphicfx**_
 
-_Traces de Chantal Partamian en est une démonstration exemplaire puisque dans la réappropriation, elle tient l'écart entre des plans voués à la commercialisation du cinéma pornographique et d'autres du monde dévasté par les guerres et les bandes terroristes qui font régner leur terreur. **Didier Samson Samson | Traverse Vidéo**_
+_Traces de Chantal Partamian en est une démonstration exemplaire puisque dans la réappropriation, elle tient l'écart entre des plans voués à la commercialisation du cinéma pornographique et d'autres du monde dévasté par les guerres et les bandes terroristes qui font régner leur terreur. **Didier Samson  | Traverse Vidéo**_
+
+_Traces est un documentaire choc de 9 minutes. Il entrecroise les archives d’un film pornographique trouvé à Beyrouth avec des images de la guerre civile libanaise provenant de divers reportages des années 80. Les silhouettes d’hommes armés et masqués s’opposent brutalement à celles de deux femmes s’embrassant avec passion. **Allyson Caron-Pelletier · Le Culte · 2024**_
 
