@@ -24,6 +24,7 @@ Shot in Lebanon during the summer of 2006, amid the Israeli attack on the countr
 - Ultradogme Movie Club 
 
 **2024**
+- Festival du film franco-arabe – Cinéma Le Trianon | Romainville/Noisy-le-Sec, France
 - Réalisatrices Équitables Ciné-club: Solidaire Liban | Montreal, Canada
 - Collectif Braquage: Home Movie Day | Paris, France
 
