@@ -70,6 +70,7 @@ The project explores the cinematic gaze towards queer bodies as well as their co
 ## Distributor
 
 - [Vidéographe][5] | [distribution@videographe.org][6]
+- Canadian Filmmakers Distribution Center | [CFMD][7] 
 
 ## Online Distributor
 - Acquired for distribution by [DA Films][1] | Oct 2025 > Oct 2027
@@ -83,6 +84,7 @@ The project explores the cinematic gaze towards queer bodies as well as their co
 [4]: https://guidedoc.tv/documentary/traces_-documentary-film/#%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20
 [5]: https://www.videographe.org/
 [6]: mailto:distribution@videographe.org
+[7]: https://www.cfmdc.org/film/5313-traces/
 
 <!-- ## Credits -->
 
