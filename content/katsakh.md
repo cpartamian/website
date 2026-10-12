@@ -25,7 +25,7 @@ For inquiries or further information, please contact us via email at katsakh.pro
 - Chantal Partamian (2026)
 - Hors Champ — Films de famille : voyager, Singularités des vies infimes
 
-  ### [Talking Archives: Season 2, Episode 1 – Chantal Partamian][9]
+### [Talking Archives: Season 2, Episode 1 – Chantal Partamian][9]
 - Gagnon, M. K., & Lex, E. (Producers). (2024)
 - Counter Archive
 
