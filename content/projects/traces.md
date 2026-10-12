@@ -15,6 +15,8 @@ The project explores the cinematic gaze towards queer bodies as well as their co
 ## Screenings
 
 **2026**
+- The little Pomegranates Series - Akebi Collective | Berlin, Germany
+- Unstable Archives - Zoetrope Collective | Athens, Greece
 - Chroma: Image & Sound | Knoxville, Tennessee
 - Toward Return - Pleasure Dome Screening Program curated by Gladys Lou & Jenny Laiwint | Toronto, Canada
 - Love Is a Stranger in an Open Car – Une dérive érotique |  dv_vd, en collaboration avec Dazibao carte blanche Frédéric Moffet
